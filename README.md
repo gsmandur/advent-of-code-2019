@@ -1,1 +1,1 @@
-https://adventofcode.com/2019
+Solution to the coding challenges on https://adventofcode.com/2019
